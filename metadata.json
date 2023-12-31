@@ -5,7 +5,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/token/1/file",
+        "uri": "https://github.com/robinvange/token/blob/main/metadata.json",
         "type": "text/plain"
       }
     ],
