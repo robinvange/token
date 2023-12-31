@@ -1,0 +1,20 @@
+{
+  "name": "Griddy",
+  "symbol": "$GRIDDY",
+  "image": "https://example.com/token/1/image",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/1/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "YOUR_SOLANA_ADDRESS",
+        "share": 100
+      }
+    ]
+  }
+}
